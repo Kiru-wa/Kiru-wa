@@ -139,6 +139,10 @@ Each project can have its own architecture, dependencies and purpose while remai
 
 ---
 
+<div align="center">
+
 > **Different projects. Multiple platforms. One ecosystem.**
 
 **Kiru — built for whatever comes next. 🚀**
+
+</div>
