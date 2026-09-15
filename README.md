@@ -6,8 +6,8 @@ Kiru is a collection of independent projects built under one ecosystem and visua
 
 The projects are not tied to a single purpose or technology. Some are development tools, some are utilities, and some are experiments for completely different tasks.
 
-[![Kiru Terminal](https://img.shields.io/badge/Kiru%20Terminal-In%20Development-orange?style=flat-square)](#-kiru-terminal)
-[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-black?style=flat-square)](https://github.com/)
+[![Kiru Terminal](https://img.shields.io/badge/Kiru_Terminal-in_development-000000?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Open Source](https://img.shields.io/badge/Open_Source-yes-000000?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ## 🧩 Projects
 
