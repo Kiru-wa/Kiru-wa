@@ -1,4 +1,6 @@
-# 🚀 Kiru
+<div align="center">
+  
+  # 🚀 Kiru
 
 > An open-source ecosystem of apps, tools and experiments.
 
@@ -8,6 +10,8 @@ The projects are not tied to a single purpose or technology. Some are developmen
 
 [![Kiru Terminal](https://img.shields.io/badge/Kiru_Terminal-in_development-000000?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Open Source](https://img.shields.io/badge/Open_Source-yes-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
 
 ## 🧩 Projects
 
